@@ -1,0 +1,18 @@
+Strategy,Games Won Foul,Games Played Foul,Games Won NoFoul,Games Played NoFoul
+"Triangle(Point2D(0, 0), Point2D(2, 0), Point2D(2, 2))",12.0,12,541.5,573
+"Polygon(Point2D(5, 3), Point2D(5, 5), Point2D(2, 2), Point2D(2, 0))",47.5,50,687.5,740
+"Triangle(Point2D(2, 0), Point2D(5, 0), Point2D(5, 3))",1.0,1,0.5,1
+"Polygon(Point2D(11, 9), Point2D(11, 11), Point2D(8, 8), Point2D(8, 6))",22.5,26,579.5,643
+"Polygon(Point2D(15, 13), Point2D(15, 15), Point2D(11, 11), Point2D(11, 9))",19.5,23,536.5,595
+"Triangle(Point2D(5, 0), Point2D(8, 0), Point2D(8, 3))",0.0,0,0.5,1
+"Polygon(Point2D(11, 6), Point2D(11, 9), Point2D(8, 6), Point2D(8, 3))",0.0,0,2.0,3
+"Polygon(Point2D(8, 0), Point2D(11, 0), Point2D(11, 6), Point2D(8, 3))",0.0,0,1.5,2
+"Polygon(Point2D(15, 10), Point2D(15, 13), Point2D(11, 9), Point2D(11, 6))",0.0,0,9.0,10
+"Polygon(Point2D(15, 0), Point2D(20, 0), Point2D(20, 9), Point2D(15, 4))",0.0,0,2.5,4
+"Polygon(Point2D(15, 4), Point2D(15, 10), Point2D(11, 6), Point2D(11, 0))",0.0,0,4.0,5
+"Triangle(Point2D(11, 0), Point2D(15, 0), Point2D(15, 4))",0.0,0,1.5,2
+"Polygon(Point2D(8, 6), Point2D(8, 8), Point2D(5, 5), Point2D(5, 3))",50.5,51,615.5,672
+"Polygon(Point2D(8, 3), Point2D(8, 6), Point2D(5, 3), Point2D(5, 0))",0.0,0,0.5,1
+"Polygon(Point2D(20, 18), Point2D(20, 20), Point2D(15, 15), Point2D(15, 13))",6.5,10,363.0,410
+"Polygon(Point2D(20, 15), Point2D(20, 18), Point2D(15, 13), Point2D(15, 10))",0.0,0,13.5,16
+"Polygon(Point2D(20, 9), Point2D(20, 15), Point2D(15, 10), Point2D(15, 4))",0.0,0,6.5,8

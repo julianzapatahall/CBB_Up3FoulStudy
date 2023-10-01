@@ -3,7 +3,7 @@
 
 ## Acknowledgments
 
-How do you create a model that can be used at the highest of competitive levels but that is so simple that any fan or college coach can understand? How do you even go about making such a simple idea statistically rigorous? The answer is with a lot of work and a lot of help. None of what you see in this repository or the attached links could be possible without any of the people below. Thank you to these great people for making this project possible:
+How do you create a model that can be used at the highest of competitive levels, but is so simple that any fan or coach can understand? How do you even go about making such a simple idea statistically rigorous? The answer is with lots of hard work and lots of help. None of what you see in this repository or the attached links could be possible without any of the people below. Thank you to these great people for making this project possible:
 
 - Bob Walsh (college coach, St John’s Red Storm)
 - Chris Murphy (college coach, Union College Garnet Chargers)

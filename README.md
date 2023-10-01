@@ -71,10 +71,6 @@ This research not only provides actionable fouling strategies for all NCAA coach
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Image Licence
-
-Adam Sonnett, Marcus Johnson foul line, CC BY-SA 2.0
-
 ---
 
 *Note: While the findings presented in this repository are specific to NCAA Men's Basketball as of the study period, the methodology can be applied and extended to other sports and leagues.*
